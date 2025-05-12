@@ -1,4 +1,5 @@
 🎭 Multimodal Emotion Recognition System
+
 A hybrid emotion recognition system that analyzes facial expressions and vocal tone to identify human emotions from uploaded images and audio/video files. Built with Python, Whisper, Keras, Librosa, OpenCV, and hosted in Google Colab.
 🚀 Features
 •	• Speech Recognition & Transcription using OpenAI Whisper
