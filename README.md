@@ -47,8 +47,6 @@ Audio: Happy, Sad, Angry, Neutral
 •	• Audio classifier currently trained on random synthetic data
 •	• No true integration/fusion between facial and audio predictions
 •	• Not robust to poor lighting, occlusions, or high-noise audio
-📄 License
-This project is intended for educational and research purposes only. If you use it, please give credit to the developers and mention this repo.
 
 🔗 References
 •	• OpenAI Whisper
