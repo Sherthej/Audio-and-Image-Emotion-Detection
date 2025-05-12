@@ -49,10 +49,7 @@ Audio: Happy, Sad, Angry, Neutral
 •	• Not robust to poor lighting, occlusions, or high-noise audio
 📄 License
 This project is intended for educational and research purposes only. If you use it, please give credit to the developers and mention this repo.
-👨‍💻 Author
-Developed by [Your Name]
-Email: your.email@example.com
-Institution: [Your College or Organization]
+
 🔗 References
 •	• OpenAI Whisper
 •	• FER2013 Facial Emotion Dataset
